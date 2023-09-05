@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Myself Pratik Devakate</h1>
-<h3 align="center">Just Fast Learner child wants to learn everytime</h3>
+<h3 align="center">Just Fast Learner child wants to learn everything</h3>
 
 - 🔭 I’m currently working on **improving my DSA and web-dev skills**
 
